@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/*
+    Louise Fear
+    January 31, 2023
+*/
+
+    body {
+        background-color: skyblue;
+    }
+
+    body strong{
+        font-style: italic;
+        text-decoration: underline;
+    }
+
+    p {
+        text-align: center;
+        color: white;
+        font-family: Verdana, Tahoma, sans-serif;
+        font-size: 19.2px;
+    }
+
+    h2 {
+        text-align: center;
+        color: white;
+        font-size: 48px;
+    }
+
+    .bolded {
+        font-weight: bold;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+    }
+
+    #verse1 {
+        background: rgba(255,0,0,0.5);
+    }
+
+    #verse2 {
+        background: rgba(0,255,0,0.5);
+    }
+
+    #verse3 {
+        background: rgba(0,0,255,0.5);
+    }
+
+    #verse4 {
+        background: rgba(255,255,0,0.5);
+    }
+
+    #verse5 {
+        background: rgba(0,255,255,0.5);
+    }
+
+
